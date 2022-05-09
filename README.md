@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daveey96
-- 👀 I’m a Front end / Back End developer
+- 👀 I’m a Front / Back End developer
 - 🧠 I’m currently know HTML, CSS, JS, Python, PHP and Laravel
 - 🧠 I’m currently learning Java and React JS
 - 📫 My line is 08083242233. You can call or just chat me up on Whatsapp😉 
